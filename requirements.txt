@@ -1,4 +1,4 @@
-torch==1.10.0
+torch==1.13.0
 ray==1.9.0
 Grid2Op==1.6.4
 tabulate==0.8.9
