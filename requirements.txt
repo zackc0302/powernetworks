@@ -2,7 +2,7 @@ torch==2.0.1
 ray==2.3.0
 Grid2Op==1.6.4
 tabulate==0.8.9
-gym==0.21.0
+gym==0.26.2
 numba==0.54.1
 tqdm==4.62.3
 pillow==8.0.1
